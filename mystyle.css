@@ -1,0 +1,26 @@
+.row_1{background-color: green; background-image: url("bg_header1.jpg");
+    height: 500px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;}
+.row_2{background-color: white; height: 500px;}
+.row_3{background-color: green; background-image: url("bg_hallofmeows.jpg");
+    height: 500px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;}
+.row_4{background-color: green; background-image: url("bg_adopting101.jpg");
+    height: 500px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;}
+.row_5{background-color: green; background-image: url("bg_appointment.jpg");
+    height: 500px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;}
+.row_6{background-color: purple; height: 500px;}
