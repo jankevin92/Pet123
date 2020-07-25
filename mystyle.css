@@ -24,3 +24,7 @@
     background-size: cover;
     position: relative;}
 .row_6{background-color: purple; height: 500px;}
+.row_1_h1{color: white;}
+.container{padding-right:-1px;padding-left:0px;
+    margin-right:auto;
+    margin-left:auto}
